@@ -1,5 +1,6 @@
 # Bewerbungsaufgabe
 Aufgabe: Custom Land-Claim Plugin
+
 Schreibe ein Minecraft-Bukkit/Spigot/Paper-Plugin, das es Spielern erlaubt, ein eigenes Grundstück (Land) zu claimen, um es vor anderen Spielern zu schützen.
 
 Funktionen:
