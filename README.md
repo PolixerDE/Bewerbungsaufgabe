@@ -17,13 +17,21 @@ Funktionen:
 ✅ Das Plugin soll verhindern, dass fremde Spieler auf einem geclaimten Gebiet Blöcke abbauen oder platzieren.
 
 Technische Anforderungen:
+
 Nutze Java oder alternativ Kotlin
+
 Projekt mit Maven oder Gradle
+
 Speichere die Daten (geclaimte Gebiete & Trust-Liste) in einer YAML-Datei oder SQLite-Datenbank
+
 Nutze Events (BlockBreakEvent, BlockPlaceEvent) für den Schutzmechanismus
+
 (Optional) ActionBar-Nachricht, wenn ein Spieler ein fremdes Gebiet betritt
+
 Extra (Optional, für Bonuspunkte 😁)
+
 ⭐ Visualisierung des geclaimten Gebiets mit Partikeln, wenn ein Spieler /claim eingibt
+
 ⭐ Admin-Befehl /adminclaims, um alle geclaimten Gebiete zu sehen
 
 Wenn du das erledigt hast sende uns einfach den Code via deinem Discord-Ticket zu! 😊
