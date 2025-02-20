@@ -5,10 +5,15 @@ Schreibe ein Minecraft-Bukkit/Spigot/Paper-Plugin, das es Spielern erlaubt, ein 
 
 Funktionen:
 ✅ Spieler können mit /claim ein 16x16-Chunks großes Gebiet beanspruchen.
+
 ✅ Spieler können mit /unclaim ihr Land wieder freigeben.
+
 ✅ Spieler können mit /trust <Spieler> einen anderen Spieler berechtigen, ihr Land zu betreten und zu bauen.
+
 ✅ Spieler können mit /untrust <Spieler> einem Spieler die Berechtigung wieder entziehen.
+
 ✅ Landbesitzer können mit /listclaims ihre beanspruchten Gebiete auflisten.
+
 ✅ Das Plugin soll verhindern, dass fremde Spieler auf einem geclaimten Gebiet Blöcke abbauen oder platzieren.
 
 Technische Anforderungen:
